@@ -1,0 +1,12 @@
+name: Lancey
+type: theme
+description: 'Tema para o site Lancey Leilões'
+package: Core
+# version: VERSION
+core: 8.x
+base theme: false
+
+# Information added by Drupal.org packaging script on 2019-11-13
+version: '8.7.10'
+project: 'drupal'
+datestamp: 1573688104

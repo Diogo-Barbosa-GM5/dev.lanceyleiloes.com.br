@@ -1,0 +1,23 @@
+{
+  "name": "lanceyleiloes",
+  "version": "1.0.0",
+  "description": "Lancey Leilões",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diogo-Barbosa-GM5/dev.lanceyleiloes.com.br.git"
+  },
+  "author": "Diogo Barbosa Silva Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diogo-Barbosa-GM5/dev.lanceyleiloes.com.br/issues"
+  },
+  "homepage": "https://github.com/Diogo-Barbosa-GM5/dev.lanceyleiloes.com.br#readme"
+}

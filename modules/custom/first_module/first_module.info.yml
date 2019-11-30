@@ -1,0 +1,7 @@
+name: Primeiro Módulo
+description: Um módulo experimental para nosso primeiro módulo Drupal 8
+package: custom
+type: module
+version: 1.0
+core: 8.x
+

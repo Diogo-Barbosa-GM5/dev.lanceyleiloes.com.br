@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Lancey theme.
+
+stark.settings:
+  type: theme_settings
+  label: 'Lancey settings'
